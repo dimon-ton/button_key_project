@@ -1,3 +1,6 @@
+# wetsite that show content about making DIY custom keyboard
+# https://www.instructables.com/DIY-Macro-Keyboard-Using-a-Raspberry-PI-Pico/
+
 import board
 import digitalio
 import time
